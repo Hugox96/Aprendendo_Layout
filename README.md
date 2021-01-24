@@ -107,3 +107,5 @@ Nesta etapa final, organize todos os elementos em um ListView, em vez de em uma 
           ),
        );
     }
+    
+Ao final temos o seguinte resultado: 
