@@ -111,7 +111,7 @@ Nesta etapa final, organize todos os elementos em um ListView, em vez de em uma 
 Ao final temos o seguinte resultado: 
 
 <p align="center">
-  <img width="300" height="270" src= "https://user-images.githubusercontent.com/62472486/105646794-a7dc7580-5e80-11eb-8961-402e57a9442f.png">
+  <img width="300" height="370" src= "https://user-images.githubusercontent.com/62472486/105646794-a7dc7580-5e80-11eb-8961-402e57a9442f.png">
 </p>
 
 
